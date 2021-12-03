@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.logo {
+    min-width: 100px;
+    max-width: 150px;
+    margin: 1rem 0;
+}
+header{
+    background-color: rgb(212, 212, 212);
+}
+
+.fotoMolino {
+    max-width: 450px;
+}
+h2 {
+    margin: 0 !important;
+}
+footer {
+    background-color: rgb(205, 205, 205);
+}
+nav a {
+    color: #001b38 !important;
+}
+nav a:hover {
+    color: #F79824 !important;
+}
