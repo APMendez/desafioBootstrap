@@ -74,6 +74,11 @@ h2 {
     width: 90%;
     max-width: 1000px;
 }
+.imgClientes {
+    width: 90%;
+    min-width: 350px;
+    max-width: 600px;
+}
 footer {
     background-color: rgb(205, 205, 205);
     color: #001b38;
