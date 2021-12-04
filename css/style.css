@@ -79,6 +79,18 @@ h2 {
     min-width: 350px;
     max-width: 600px;
 }
+.formulario {
+    display: flex;
+    flex-direction: column;
+    align-content: flex-start;
+    justify-content: space-between;
+
+    width: 95%;
+    max-width: 800px;
+    height: 80vh;
+    padding: 2rem;
+    margin: 2rem 0;
+}
 footer {
     background-color: rgb(205, 205, 205);
     color: #001b38;
