@@ -91,6 +91,13 @@ h2 {
     padding: 2rem;
     margin: 2rem 0;
 }
+.whatsapp{
+    width: 15%;
+    max-width: 80px;
+    position: fixed;
+    bottom: 4rem;
+    right: 1rem;
+}
 footer {
     background-color: rgb(205, 205, 205);
     color: #001b38;
