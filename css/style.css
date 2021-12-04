@@ -54,6 +54,26 @@ h2 {
     font-weight: 700;
     cursor: pointer;
 }
+
+.quienesSomos {
+    width: 90%;
+    min-width: 350px;
+    max-width: 450px;
+    margin: 5rem 2rem;
+}
+
+.filaQuienes {
+    height: 50vh;
+}
+.imgEquipo {
+    width: 90%;
+    min-width: 350px;
+    max-width: 600px;
+}
+.textoMision {
+    width: 90%;
+    max-width: 1000px;
+}
 footer {
     background-color: rgb(205, 205, 205);
     color: #001b38;
